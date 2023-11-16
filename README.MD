@@ -7,6 +7,7 @@
 
 • Construction des modèles:  
 
+
     • Approche 1: numérisation des variables catégorielles  
 
     • Approche 2: discrétisation des variables continues  
